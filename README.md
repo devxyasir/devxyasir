@@ -2,7 +2,7 @@
 - 👀 I’m interested in **AI, Machine Learning, Cybersecurity, Web Development, Python, and Data Science**  
 - 🌱 I’m currently learning **Generative AI, FastAPI, and enhancing my skills in Python and networking**  
 - 💞️ I’m looking to collaborate on **AI projects, data-driven applications, cybersecurity tools, and open-source software**  
-- 📫 How to reach me: **[Email](mailto:youremail@example.com)** | [LinkedIn](https://www.linkedin.com/in/jaamyasir) | [Medium](https://medium.com/@jaamyasir)  
+- 📫 How to reach me: **[Email](mailto:teamhackpulse@duck.com)** | [Medium](https://jamyasir.medium.com) | [Facebook](https://www.facebook.com/jamyasir0010)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I **love exploring hacking techniques**, creating custom rubber ducky tools, and building mini apps for Telegram.  
 - 🔭 I’m currently working on **AI-based tools like a dream-to-3D visualizer and video resolution enhancer**  
