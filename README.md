@@ -24,4 +24,4 @@
 
 ## 📫 Let's Collaborate
 Feel free to reach out for **AI**, **open-source**, or **cybersecurity** projects!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamyasir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devxyasir/)
