@@ -21,8 +21,6 @@
 
 ## ⚡ Fun Facts
 - I enjoy **reading books**, **playing video games**, and **exploring the internet**  
-- Obsessed with **custom rubber ducky tools**  
-- Love building **mini Telegram apps**  
 
 ## 📫 Let's Collaborate
 Feel free to reach out for **AI**, **open-source**, or **cybersecurity** projects!  
