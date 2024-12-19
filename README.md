@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 ![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaamyasir&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaamyasir&repo=github-readme-stats)](https://github.com/jaamyasir/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaamyasir&repo=github-readme-stats)]
