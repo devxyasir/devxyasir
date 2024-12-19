@@ -11,9 +11,9 @@
 [![OSINT](https://img.shields.io/badge/OSINT-blue?logo=internet-explorer&logoColor=white)](https://en.wikipedia.org/wiki/Open-source_intelligence) [![PenTesting](https://img.shields.io/badge/PenTesting-red?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Penetration_testing)
 
 ## 📊 GitHub Stats & Achievements
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaamyasir&show_icons=true&theme=radical&count_private=true&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaamyasir&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaamyasir&theme=radical)
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxyasir&show_icons=true&theme=radical&count_private=true&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxyasir&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devxyasir&theme=radical)
 
 ## 🔭 Current Projects
 - **Dream-to-3D Visualizer**: AI tool converting dream descriptions into 3D models  
