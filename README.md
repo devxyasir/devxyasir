@@ -20,6 +20,7 @@
 - **Video Resolution Enhancer**: AI-based video quality enhancement tool  
 
 ## ⚡ Fun Facts
+- I enjoy **reading books**, **playing video games**, and **exploring the internet**  
 - Obsessed with **custom rubber ducky tools**  
 - Love building **mini Telegram apps**  
 
