@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **@jaamyasir**
+# 👋 Hi, I’m **Muhammad Yasir**
 ✨ **AI Enthusiast | ML Expert | Cybersecurity Pro | Full Stack Developer** ✨  
 🌱 Learning **Generative AI**, **FastAPI**, enhancing **ML** & **Networking** skills  
 💞 Open to collaborate on **AI Projects**, **Data Science Models**, **Cybersecurity Solutions**  
