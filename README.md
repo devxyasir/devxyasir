@@ -1,17 +1,17 @@
 
 
-[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learned+Data-Science;I+am+from+pakistan-lodhran;Nice+to+Meet+You)](https://github.com/devxyasir)
+[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learned+Data-Science;I+am+from+Pakistan+Lodhran;Nice+to+Meet+You)](https://github.com/devxyasir)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
 
 
-![Muhammad-Yasir](https://cardivo.vercel.app/api?name=WASI%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/devxyasir.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=itx_mee_wasi&github=devxyasir&)
+![Muhammad-Yasir](https://cardivo.vercel.app/api?name=WASI%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/devxyasir.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=jamyasir_03&github=devxyasir&)
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
- <a href="https://www.facebook.com/chwaseem11bc?mibextid=ZbWKwL"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://x.com/devxyasir"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+<a href="https://x.com/devxyasir"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devxyasir&label=Visitors%20count&color=10d9c3&style=plastic" alt="DevxYasir" /> </p>
