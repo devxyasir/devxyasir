@@ -14,7 +14,7 @@
  <a href="https://www.facebook.com/chwaseem11bc?mibextid=ZbWKwL"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://x.com/devxyasir"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devxyasir&label=Visitors%20count&color=10d9c3&style=plastic" alt="WASI-TECH" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devxyasir&label=Visitors%20count&color=10d9c3&style=plastic" alt="DevxYasir" /> </p>
 </br>
 </details>
 
