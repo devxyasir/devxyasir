@@ -58,7 +58,7 @@ myIntro.displayIntro();
   <tr border="none">
     <td width="50%" align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=devxyasir&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
-      <a href="https://github.com/devxyasir"><img src="https://github-readme-streak-stats.herokuapp.com?user=devxyasir&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="WASI" /></a>
+      <a href="https://github.com/devxyasir"><img src="https://github-readme-streak-stats.herokuapp.com?user=devxyasir&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="Yasir" /></a>
         </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devxyasir&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
@@ -66,8 +66,8 @@ myIntro.displayIntro();
   </tr>
 </table>
 <div align=center>
-  <a href="https://github.com/devxyasir" title="WASI">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devxyasir&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="WASI" />
+  <a href="https://github.com/devxyasir" title="Yasir">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devxyasir&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Yasir" />
     </a>
 </div>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -98,8 +98,8 @@ myIntro.displayIntro();
 
 <br>
 
-[![WASI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devxyasir)
+[![Yasir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devxyasir)
 <br>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="WASI" />
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Yasir" />
 </p>
