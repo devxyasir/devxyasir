@@ -1,6 +1,6 @@
 
 
-[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learned+Data-Science;I+am+from+Pakistan+Lodhran;Nice+to+Meet+You)](https://github.com/devxyasir)
+[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learned+Data-Science;I+am+from+Lodhran+Pakistan;Nice+to+Meet+You)](https://github.com/devxyasir)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -77,11 +77,11 @@ myIntro.displayIntro();
 
 
   
-- 🔭 I’m currently working on Sign-Language-Detection
+- 🔭 I’m currently working on Email Marketing Software & Auto Ads Impression Bot 
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about  Machine Learning, Deep learning, and AI related Problems.
-- 📫 How to reach me: [`Upwork`](https://www.upwork.com/freelancers/~01090e14970fef270c)
+- 📫 How to reach me: [`Upwork`](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) ⚡ [`Email`](mailto:jamyasir0534@gmail.com)
 - ⚡ Fun fact: ...
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
