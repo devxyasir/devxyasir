@@ -1,6 +1,6 @@
 
 
-[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learner;I+am+from+Lodhran+Pakistan;Cybersecurity+%26+AI+Enthusiast🔐🤖;Code.+Secure.+Innovate.🚀;Nice+to+Meet+You!)](https://github.com/devxyasir)
+[![Muhammad-Nasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learner;I+am+from+Lodhran+Pakistan;Cybersecurity+%26+AI+Enthusiast🔐🤖;Code.+Secure.+Innovate.🚀;Nice+to+Meet+You!)](https://github.com/devxyasir)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -8,7 +8,7 @@
 
 
 
-![Muhammad-Yasir](https://cardivo.vercel.app/api?name=Muhammad%20Yasir%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/devxyasir.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=jamyasir_03&github=devxyasir&)
+![Muhammad-Nasir](https://cardivo.vercel.app/api?name=Muhammad%20Yasir%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/devxyasir.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=jamyasir_03&github=devxyasir&)
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
@@ -99,7 +99,7 @@ myIntro.displayIntro();
 
 <br>
 
-[![Yasir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devxyasir)
+[![Nasir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devxyasir)
 <br>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Yasir" />
