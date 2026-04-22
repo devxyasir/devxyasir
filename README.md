@@ -147,7 +147,7 @@ class MuhammadYasir:
 | 📄 Editingz | [editingz.com](https://editingz.com/) | All-in-one online PDF platform — 28+ tools (merge, split, compress, convert, OCR, AI summarize & more). Free, no sign-up, 256-bit SSL encrypted |
 | 🧑‍💼 CV / Portfolio | [devxyasircv.netlify.app](https://devxyasircv.netlify.app/) | Personal developer CV & portfolio — skills, projects, and experience at a glance |
 | 🤗 HuggingFace Models | [huggingface.co/devxyasir](https://huggingface.co/devxyasir) | Published ML models and datasets |
-| 💼 Upwork Profile | [Hire on Upwork] [Profile 1](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) [Profile 2](https://www.upwork.com/freelancers/~014c8d834deadf128c) | AI/ML & automation freelance services |
+| 💼 Upwork Profile | **Hire on Upwork** [Profile 1](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) [Profile 2](https://www.upwork.com/freelancers/~014c8d834deadf128c) | AI/ML & automation freelance services |
 
 <br/>
 
