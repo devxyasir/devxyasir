@@ -184,7 +184,8 @@ class MuhammadYasir:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devxyasir&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
+<!-- Primary mirror (volunteer-hosted, load-balanced) -->
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=devxyasir&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
 
 <br/><br/>
 
