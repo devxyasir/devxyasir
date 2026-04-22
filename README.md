@@ -271,7 +271,7 @@ class MuhammadYasir:
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2">
+<a href="https://www.upwork.com/freelancers/~014c8d834deadf128c">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 &nbsp;
