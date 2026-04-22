@@ -1,116 +1,303 @@
+<div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HERO / HEADER SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Muhammad-Yasir](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Muhammad+Yasir;I+am+a+Self+Learner;I+am+from+Lodhran+Pakistan;Cybersecurity+%26+AI+Enthusiast🔐🤖;Code.+Secure.+Innovate.🚀;Nice+to+Meet+You!)](https://github.com/devxyasir)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff87,100:00bfff&height=200&section=header&text=Muhammad%20Yasir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=16&descColor=a0f0c0&animation=fadeIn" />
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🤖+Building+Intelligent+AI+Systems;🔐+Securing+the+Digital+Frontier;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Generative+AI+%7C+LangChain+%7C+LangGraph;🌐+MERN+Stack+%7C+FastAPI+%7C+Python;🚀+Code.+Secure.+Innovate.)](https://github.com/devxyasir)
 
+<br/>
 
-![Muhammad-Yasir](https://cardivo.vercel.app/api?name=Muhammad%20Yasir%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/devxyasir.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=devxyasir&github=devxyasir&)
-</p>
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://x.com/devxyasir"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
-</p>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devxyasir&label=Visitors%20count&color=10d9c3&style=plastic" alt="DevxYasir" /> </p>
-</br>
-</details>
+<a href="https://github.com/devxyasir">
+  <img src="https://komarev.com/ghpvc/?username=devxyasir&label=Profile+Views&color=00ff87&style=for-the-badge&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/devxyasir?tab=followers">
+  <img src="https://img.shields.io/github/followers/devxyasir?label=Followers&style=for-the-badge&color=00bfff&labelColor=0d1117&logo=github" />
+</a>
+&nbsp;
+<a href="https://github.com/devxyasir?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-58-blueviolet?style=for-the-badge&labelColor=0d1117&logo=github" />
+</a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-```
-class Introduction {
-    constructor(name, profession, skills, interests) {
-        this.name = name;
-        this.profession = profession;
-        this.skills = skills;
-        this.interests = interests;
-    }
-
-    displayIntro() {
-        console.log(`Hello, my name is ${this.name}.`);
-        console.log(`I am a ${this.profession}.`);
-        console.log("Here are some of my skills:");
-        this.skills.forEach(skill => console.log(`- ${skill}`));
-        console.log("I am interested in:");
-        this.interests.forEach(interest => console.log(`- ${interest}`));
-    }
-}
-
-const myIntro = new Introduction(
-    "devxyasir",
-    "Data Scientist",
-    ["JavaScript", "Python", "Web Development", "Data Analysis"],
-    ["Open Source Contribution", "Machine Learning", "Gaming"]
-);
-
-myIntro.displayIntro();
-```
-  
-
-
-</p>
-<br><br>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=devxyasir&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
-      <a href="https://github.com/devxyasir"><img src="https://github-readme-streak-stats.herokuapp.com?user=devxyasir&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="Yasir" /></a>
-        </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devxyasir&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
-    </td>
-  </tr>
-</table>
-<div align=center>
-  <a href="https://github.com/devxyasir" title="Yasir">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=devxyasir&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Yasir" />
-    </a>
 </div>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
- 
 
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-  
-- 🔭 I’m currently working on Email Marketing Software & Auto Ads Impression Bot 
-- 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
-- 👯 I’m looking to collaborate on Developing Hacking Software Programs
-- 💬 Ask me about  Machine Learning, Deep learning, and AI related Problems.
-- 📫 How to reach me: [`Upwork`](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) ⚡ [`Email`](mailto:jamyasir0534@gmail.com)
-- ⚡ Fun fact: ...
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-<!-- 
-devxyasir AI Engineer, devxyasir Web Developer, devxyasir Machine Learning, 
-devxyasir Cybersecurity, devxyasir Python, devxyasir FastAPI, 
-devxyasir Hugging Face, devxyasir OpenAI, devxyasir NLP, 
-Muhammad Yasir AI Engineer, Muhammad Yasir Python Developer, 
-Muhammad Yasir Cybersecurity, AI Engineer Pakistan, 
-Best AI Developer in Pakistan, AI Developer Lodhran, 
-Generative AI Developer, Deep Learning Engineer 
--->
+```python
+class MuhammadYasir:
+    handle     = "devxyasir"
+    location   = "Lodhran, Pakistan 🇵🇰"
+    roles      = ["AI / ML Engineer", "Cybersecurity Enthusiast", "Full-Stack Developer"]
+    focus      = ["Generative AI", "LangChain", "LangGraph", "Computer Vision", "NLP"]
+    stack      = ["Python", "JavaScript", "TypeScript", "MERN", "FastAPI"]
+    platforms  = ["HuggingFace 🤗", "Upwork", "GitHub"]
+    currently  = "Building Email Marketing Software & AI-powered tools"
+    learning   = ["Advanced LLM Fine-Tuning", "Agentic AI Systems", "RAG Pipelines"]
+    open_to    = "Collaborations on AI, Automation & Cybersecurity projects"
 
+    def mission(self):
+        return "Turn cutting-edge research into real-world intelligent systems. 🚀"
+```
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
 
-<br>
+## 🛠️ &nbsp; Tech Arsenal
 
-[![Yasir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/devxyasir)
-<br>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Yasir" />
+### &nbsp; Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+
+### &nbsp; AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### &nbsp; Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+### &nbsp; Cybersecurity & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## 🚀 &nbsp; Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🔧 Stack |
+|:---|:---|:---|
+| [🤟 SignLanguageDetection](https://github.com/devxyasir/SignLanguageDetection) | Real-time sign language recognition using computer vision & deep learning | `Python` `OpenCV` `TensorFlow` |
+| [🔗 Blockchain-Driven-Personal-Data-Vault](https://github.com/devxyasir/Blockchain-Driven-Personal-Data-Vault) | Decentralized personal data storage system powered by blockchain | `JavaScript` `Web3` `Blockchain` |
+| [🗄️ DigitoolDB](https://github.com/devxyasir/DigitoolDB) | Lightweight NoSQL-style document database inspired by MongoDB — built from scratch | `Python` `JSON` `Indexing` |
+| [🔍 Florence-2 License Plate OCR](https://github.com/devxyasir/Fine-Tuning-Florence-2-on-a-License-Plate-Dataset-with-EasyOCR) | Fine-tuned Florence-2 vision model for license plate recognition | `Python` `HuggingFace` `EasyOCR` |
+| [🔐 DevSecure](https://github.com/devxyasir/devsecure) | Security-focused developer platform — live at devsecure.netlify.app | `TypeScript` `React` `Security` |
+| [🚗 TrOCR Plate Recognition](https://github.com/devxyasir/Licence-Plate-Detection-Recognition-with-TrOCR) | ANPR system using Microsoft TrOCR transformer model | `Python` `TrOCR` `Jupyter` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CURRENTLY RUNNING                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## 🌐 &nbsp; Live & Running Projects
+
+> ⚡ These projects are actively deployed and maintained.
+
+| 🔗 Project | 🌍 Live URL | 📌 Description |
+|:---|:---|:---|
+| 🔐 DevSecure | [devsecure.netlify.app](https://devsecure.netlify.app/) | Developer security platform with live tooling |
+| 🤗 HuggingFace Models | [huggingface.co/devxyasir](https://huggingface.co/devxyasir) | Published ML models and datasets |
+| 💼 Upwork Profile | [Hire on Upwork](https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2) | AI/ML & automation freelance services |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## 📊 &nbsp; GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devxyasir&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=devxyasir&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff87&ring=00bfff&fire=00ff87&currStreakLabel=00ff87&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxyasir&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&layout=donut&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxyasir&theme=react-dark&bg_color=0d1117&color=00ff87&line=00bfff&point=ffffff&area=true&area_color=00ff8720&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ACHIEVEMENTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## 🏆 &nbsp; Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devxyasir&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-×2-0d6efd?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_Quickdraw-Achieved-00ff87?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ORCID-0009--0001--0375--1016-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY / FUN SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## ⚡ &nbsp; What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+🔭  Building:
+      - Email Marketing Automation Software
+      - AI-Powered Ads Impression Systems
+
+🌱  Currently Studying:
+      - Advanced Python (Python 3.x internals)
+      - Agentic AI with LangGraph
+      - RAG-based Knowledge Systems
+
+🤝  Open to Collaborate On:
+      - AI / ML projects
+      - Cybersecurity tools
+      - Open-source automation
+
+💬  Ask Me About:
+      - Machine Learning & Deep Learning
+      - Generative AI & Prompt Engineering
+      - NLP & Computer Vision pipelines
+```
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
+
+## 🌐 &nbsp; Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/devxyasir">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/devxyasir">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/devxyasir/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/devxyasir">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~017d7a5cfbffaba1f2">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:jamyasir0534@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://orcid.org/0009-0001-0375-1016">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://devsecure.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Drop+a+⭐+on+something+you+like.;Let's+build+the+future+with+AI+%F0%9F%A4%96;Open+to+collabs+—+DM+me+anytime!)](https://github.com/devxyasir)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff87,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+  <sub>Crafted with ❤️ by <a href="https://github.com/devxyasir"><b>devxyasir</b></a> · Pakistan 🇵🇰 · 2025</sub>
+</div>
